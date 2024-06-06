@@ -1,0 +1,9 @@
+quick---0.701
+jellyjam---0.654
+smartypants---0.688
+megabot---0.69
+100epochs---0.672
+predictedtimetester---0.682
+trash---0.558
+Premium---0.813
+techdeck---0.612
